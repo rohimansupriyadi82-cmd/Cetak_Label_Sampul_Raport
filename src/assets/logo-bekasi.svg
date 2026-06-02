@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Logo Bekasi">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1B2A" />
+      <stop offset="1" stop-color="#1e3a5f" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="256" rx="48" fill="url(#g)" />
+  <circle cx="128" cy="108" r="56" fill="#D4AF37" opacity="0.95" />
+  <path d="M64 210c18-28 43-42 64-42s46 14 64 42" fill="none" stroke="#D4AF37" stroke-width="14" stroke-linecap="round"/>
+  <path d="M100 108h56" stroke="#0D1B2A" stroke-width="10" stroke-linecap="round" />
+  <path d="M128 80v56" stroke="#0D1B2A" stroke-width="10" stroke-linecap="round" />
+</svg>
